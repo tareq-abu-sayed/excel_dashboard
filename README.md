@@ -4,6 +4,7 @@
 1. Microsoft Excel for Visualization
 2. Power Query for ETL and Automation
 3. Power Pivot for Report View
+4. VBA for Tab View
 
 # Project Workflow
 Data downloaded from the contact center portal and stored in a fixed location, then Power Query load the data and do the transformation, then load it to the data model. 
